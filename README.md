@@ -1,2 +1,0 @@
-# Ecomerence-Project
-php codes
